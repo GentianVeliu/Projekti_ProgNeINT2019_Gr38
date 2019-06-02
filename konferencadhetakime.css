@@ -1,0 +1,187 @@
+body{
+	background-color:#f1f1f1;
+}
+.img1{
+width:30%;
+height:190px;
+float:left;
+margin-left:150px;
+}
+#kh1{
+padding:55px 0 0 20px;
+color:#3A5FCD;
+font-size:45px;
+}
+.k1 ul{
+list-style-type:none;
+max-width:100%;
+overflow:hidden;
+padding:0;
+background-color:lightgrey;
+margin:15px 150px 0 150px;
+border-right:1px solid grey;
+border-left:1px solid grey;
+}
+.k2 li {
+float:left;
+}
+.k3 li a{
+display:block;
+padding:20px 25px;
+text-decoration:none;
+}
+.kb1 li
+{
+    border-right:2px solid #A3A3A3;
+}
+.kb2 li:last-child 
+{
+    border-right: none;
+}
+.kk li a:hover{
+	background-color:#7E8F7C;
+	}
+	#i7{
+	margin:0 150px;
+	border-top:1px solid grey;
+	border-left:1px solid grey;
+	border-right:1px solid grey;
+	border-bottom:1px solid white;
+	background-color:white;
+overflow:hidden;
+}
+.kl10 {
+	background-color:lightgrey;
+	margin:10px 150px 15px 150px ;
+border:1px solid grey;
+overflow:hidden;
+float:left;
+clear:left;
+width:1032px;
+}
+.kl11 table a{
+ text-decoration:none;
+ color:#1874CD;
+ }
+  #id13{
+	 padding:6px 30px;}
+ #id14{
+	 padding:6px 65px;}
+#id15 a:hover{
+	background-color:#7E8F7C;
+	}
+.kd1 {
+	position:relative;
+	margin:10px 150px 10px 150px;
+overflow:hidden;
+background-color:#CDC5BF;
+border-right:1px solid grey;
+border-left:1px solid grey;	
+border-bottom:1px solid grey;	
+}
+
+#did1 {
+	position:relative;
+float:left;
+overflow:hidden;
+	
+	padding:0px;
+	width:43%;
+	border:2px solid black;
+	height:500px;
+	margin:20px 20px 15px 50px;
+
+			background-image:url("konferencabackground3.jpg");
+}
+#did1 img{
+	margin:0px;
+	padding:0px;
+}
+#did1 h3 {
+	color:yellow;
+	margin-left:5px;
+	border-bottom:2px solid white;
+	margin-right:199px;
+}
+#did1 p {
+	color:white;
+	margin-left:5px;
+}
+#did2 {
+	position:relative;
+float:left;
+overflow:hidden;
+height:500px;
+	margin:20px 20px 15px 20px;
+		padding:0px;
+	width:43%;
+	border:2px solid black;
+		background-image:url("konferencabackground3.jpg");
+}
+#did2 img{
+	margin:0px;
+	padding:0px;
+}
+#did2 h3 {
+	color:yellow;
+	margin-left:5px;
+	border-bottom:2px solid white;
+	margin-right:181px;
+}
+#did2 p {
+	color:white;
+	margin-left:5px;
+}
+#did3 {
+	position:relative;
+float:left;
+overflow:hidden;
+clear:left;
+height:500px;
+		margin:20px 20px 15px 50px;
+		padding:0px;
+	width:43%;
+	border:2px solid black;
+
+	background-image:url("konferencabackground3.jpg");
+}
+#did3 img{
+	margin:0px;
+	padding:0px;
+}
+#did3 h3 {
+	color:yellow;
+	margin-left:5px;
+		border-bottom:2px solid white;
+	margin-right:210px;
+}
+#did3 p {
+	color:white;
+	margin-left:5px;
+}
+#did4 {
+	position:relative;
+float:left;
+height:500px;
+overflow:hidden;
+	margin:20px 20px 15px 20px;
+		padding:0px;
+	width:43%;
+	border:2px solid black;
+
+	background-image:url("konferencabackground3.jpg");
+}
+#did4 img{
+	margin:0px;
+	padding:0px;
+}
+#did4 h3 {
+	color:yellow;
+	margin-left:5px;
+	border-bottom:2px solid white;
+	margin-right:210px;
+}
+#did4 p {
+	color:white;
+	margin-left:5px;
+}

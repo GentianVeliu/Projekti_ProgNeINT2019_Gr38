@@ -1,0 +1,232 @@
+body{
+	background-color:#f1f1f1;
+}
+.img1{
+width:30%;
+height:190px;
+float:left;
+margin-left:150px;
+}
+#kh1{
+padding:55px 0 0 20px;
+color:#3A5FCD;
+font-size:45px;
+}
+.k1 ul{
+list-style-type:none;
+max-width:100%;
+overflow:hidden;
+padding:0;
+background-color:lightgrey;
+margin:15px 150px 0 150px;
+border-right:1px solid grey;
+border-left:1px solid grey;
+}
+.k2 li {
+float:left;
+}
+.k3 li a{
+display:block;
+padding:20px 25px;
+text-decoration:none;
+}
+.kb1 li
+{
+    border-right:2px solid #A3A3A3;
+}
+.kb2 li:last-child 
+{
+    border-right: none;
+}
+.kk li a:hover{
+	background-color:#7E8F7C;
+	}
+	#i7{
+	margin:0 150px;
+	border-top:1px solid grey;
+	border-left:1px solid grey;
+	border-right:1px solid grey;
+	border-bottom:1px solid white;
+	background-color:white;
+overflow:hidden;
+}
+.kl10 {
+	background-color:lightgrey;
+	margin:10px 150px 15px 150px ;
+border:1px solid grey;
+overflow:hidden;
+float:left;
+clear:left;
+width:1032px;
+}
+.kl11 table a{
+ text-decoration:none;
+ color:#1874CD;
+ }
+  #id13{
+	 padding:6px 30px;}
+ #id14{
+	 padding:6px 65px;}
+#id15 a:hover{
+	background-color:#7E8F7C;
+	}
+.kd1 {
+	position:relative;
+	margin:10px 150px 10px 150px;
+overflow:hidden;
+background-color:#CDC5BF;
+border-right:1px solid grey;
+border-left:1px solid grey;	
+border-bottom:1px solid grey;	
+}
+.kd1 img{
+	border:2px solid #8B2500;
+	outline:5px solid #757575;
+	margin:15px 15px 30px 15px;	
+}
+#kpd1{
+	position:relative;
+	margin:10px;
+	background-color:#CDC5BF;
+	overflow:hidden;	
+}
+#kpd1 h2{
+	color:black;
+	margin-right:100px;
+	border-bottom:2px solid red;
+}
+#kpd1 p{
+	color:#104E8B;
+	margin-left:0px;
+	font-size:18px;
+}
+#kpd2{
+	position:relative;
+	margin:10px;
+	border-radius:10px;
+	background-image:url("ipkocover.png");
+	overflow:hidden;
+	float:left;
+	width:22.65%;
+	border:2px solid black;
+}
+#kpd2 h3{
+	margin:90px 5px 5px 100px;
+	color:yellow;
+}
+#kpd2 a{
+	color:yellow;
+}
+#kpd2 p{
+	margin:6px; 
+	padding:2px;
+	color:black;
+	font-size:16px;
+	background-color:#FAF0E6;
+opacity:0.9;
+border-radius:5px;
+}
+#sid1{
+	font-size:18px;
+	color:blue;
+}
+#kpd3{
+	position:relative;
+	margin:10px;
+	border-radius:10px;
+	background-image:url("sharrcover.jpg");
+	border:2px solid red;
+	overflow:hidden;
+	float:left;
+	width:22.65%;
+	opacity:0.9;
+	border:2px solid black;
+}
+#kpd3 h3{
+	margin:104px 5px 5px 100px;
+	color:blue;
+	
+}
+#kpd3 a{
+	color:blue;
+	
+}
+	
+#kpd3 p{
+	margin:6px;
+	padding:8px;
+	color:red;
+	font-size:17px;
+	background-color:black;
+opacity:0.9;
+border-radius:5px;
+}
+#sid2{
+	font-size:24px;
+	color:yellow;
+}
+	#kpd4{
+	position:relative;
+	margin:10px;
+	border-radius:10px;
+	background-image:url("airprishtinacover.jpg");
+	border:2px solid red;
+	overflow:hidden;
+	float:left;
+	width:22.65%;
+	border:2px solid black;
+}
+#kpd4 h3{
+	margin:93px 5px 5px 100px;
+	
+}
+#kpd4 a{
+color:black;	
+}
+#kpd4 p{
+	margin:6px;
+	padding:8px;
+	color:blue;
+	font-size:17px;
+	background-color:grey;
+opacity:0.9;
+border-radius:5px;
+}
+#sid3{
+	font-size:20px;
+	color:yellow;
+}
+#kpd5{
+	position:relative;
+	margin:10px;
+	border-radius:10px;
+	background-image:url("mountaincover.png");
+	border:2px solid red;
+	overflow:hidden;
+	float:left;
+	width:22.65%;
+	opacity:0.9;
+	border:2px solid black;
+}
+#kpd5 h3{
+	margin:112px 5px 5px 100px;
+	color:green;	
+}
+#kpd5 a{
+	color:green;	
+}
+#kpd5 p{
+	margin:6px;
+	padding:8px;
+	color:black;
+	font-size:18px;
+	background-color:red;
+opacity:0.9;
+border-radius:5px;
+}
+#sid4{
+	font-size:20px;
+	color:blue;
+	font-weight:bold;
+}
+
