@@ -31,11 +31,11 @@
     </div>
     <div class="k7">
       <p> Rezervo 5 nete per cift ,fito 1 gratis!</p>
-      <a href="hotel2identifikohu.php"><h2>Rezervo tani</h2></a>
+      <a href="hotel2rezervo.php"><h2>Rezervo tani</h2></a>
     </div>
     <div class="k8">
       <p>Flija tradicionale.Porosit 2,merr 1 gratis!</p>
-      <a href="hotel2identifikohu.php"><h2>Rezervo tani</h2></a>
+      <a href="hotel2rezervo.php"><h2>Rezervo tani</h2></a>
     </div>
   </div>
   <div class="kd9">
