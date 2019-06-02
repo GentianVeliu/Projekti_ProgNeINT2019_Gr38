@@ -24,6 +24,7 @@
         <li><a href="hotel2dhoma.php">Dhoma & Suita</a></li>
         <li><a href="hotel2konferencadhetakime.php">Konferenca & Takime</a></li>
         <li><a href="hotel2historia.php">Historiku</a></li>
+        <li><a href="hotel2loja.php">Loja</a></li>
       </ul>
     </div>
     <div class="kh2">
