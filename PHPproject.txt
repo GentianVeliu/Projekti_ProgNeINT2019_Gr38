@@ -1,0 +1,112 @@
+create database phpproject;
+
+
+use phpproject;
+
+
+
+create table Room(
+	
+ roomId int unsigned auto_increment primary key,
+  
+  roomName varchar(20),
+    
+ adults tinyint unsigned,
+  
+  children tinyint unsigned
+
+);
+
+
+
+alter table Room
+
+auto_increment = 1122;
+
+
+
+create table EmailList(
+	
+  emailId int unsigned auto_increment primary key,
+ 
+  email varchar(100)
+
+);
+
+
+alter table EmailList
+
+auto_increment = 1020;
+
+
+
+create table Booking(
+
+  bookingId int unsigned auto_increment primary key,
+ 
+  emailId int unsigned,
+  
+  roomId int unsigned,
+ 
+  bookingFrom date,
+  
+  bookingTo date,
+   
+  nrOfRooms tinyint unsigned,
+   
+  nrOfAdults tinyint unsigned,
+ 
+  nrOfChildren tinyint unsigned,
+ 
+  foreign key(emailId) references EmailList(emailId),
+   
+  foreign key(roomId) references Room(roomId)
+
+);
+
+
+
+alter table Booking
+
+auto_increment = 112200;
+
+
+
+create table Contacts(
+	
+  contactId int unsigned auto_increment  primary key,
+  
+  bookingId int unsigned,
+   
+  contactNumber varchar(30),
+  
+  unique(bookingId),
+  
+  foreign key(bookingId) references Booking(bookingId)
+
+);
+
+
+insert into Room
+
+values
+(default,'Deluxe Room',2,2),
+
+(default,'Junior Suite',4,3),
+
+(default,'Hospitality Room',2,2),
+
+(default,'Dhome 3-vendeshe',3,3)
+
+create table Comments
+(
+cmid integer primary key auto_increment,
+
+emri varchar(30),
+
+mbiemri varchar(40),
+
+email varchar(100),
+
+comment varchar(500)
+);
